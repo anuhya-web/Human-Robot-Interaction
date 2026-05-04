@@ -1,9 +1,11 @@
 Social Cue Analysis for Human-Robot Interaction
 
+
 Project Overview
 
 This project focuses on building a real-time system that can understand human behaviour using both speech and video inputs. The system uses a live microphone and webcam to captures data and applies AI techniques to analyse speech, emotions, gaze directions, and body posture.
 The main goal is to improve human–robot interaction by making the system more aware of human’s emotions and responses naturally.
+
 
 Features
 
@@ -19,6 +21,7 @@ Features
 
 •	Multimodal analysis (combining audio and visual data) 
 
+
 Technologies Used
 
 •	Python
@@ -33,6 +36,7 @@ Technologies Used
 
 •	Ultralytics YOLO (Object Detection / Pose Detection)
 
+
 Requirements
 
 •	Python 3.10.x
@@ -40,6 +44,7 @@ Requirements
 •	Webcam
 
 •	Microphone
+
 
 Libraries Used
 
